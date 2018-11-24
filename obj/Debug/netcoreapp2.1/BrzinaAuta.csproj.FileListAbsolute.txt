@@ -1,0 +1,11 @@
+/home/stanko/Documents/BrzinaAuta/bin/Debug/netcoreapp2.1/BrzinaAuta.deps.json
+/home/stanko/Documents/BrzinaAuta/bin/Debug/netcoreapp2.1/BrzinaAuta.runtimeconfig.json
+/home/stanko/Documents/BrzinaAuta/bin/Debug/netcoreapp2.1/BrzinaAuta.runtimeconfig.dev.json
+/home/stanko/Documents/BrzinaAuta/bin/Debug/netcoreapp2.1/BrzinaAuta.dll
+/home/stanko/Documents/BrzinaAuta/bin/Debug/netcoreapp2.1/BrzinaAuta.pdb
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.csprojAssemblyReference.cache
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.csproj.CoreCompileInputs.cache
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.AssemblyInfoInputs.cache
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.AssemblyInfo.cs
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.dll
+/home/stanko/Documents/BrzinaAuta/obj/Debug/netcoreapp2.1/BrzinaAuta.pdb
