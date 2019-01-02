@@ -7,7 +7,7 @@ namespace BrzinaAuta
         static void Main(string[] args)
         {
             var stanko = new Speed();
-            stanko.CalculateSpeed(120,100);
+            stanko.CalculateSpeed(150,100);
         }
     }
 }
