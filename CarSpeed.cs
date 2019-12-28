@@ -15,12 +15,12 @@ public class Speed{
          demeritPointsPerKm = (carSpeed - speedLimit) / demerit_Points;
         if (demeritPointsPerKm > 12)
         {
-            System.Console.WriteLine("License suspended");
+            System.Console.WriteLine("Dozvola Obrisana");
         }
 
         else{
             if (carSpeed <= speedLimit){
-                System.Console.WriteLine("Speed withing allowed limit");
+                System.Console.WriteLine("Brzina nije dozvoljena");
             }
            else if (carSpeed > speedLimit)
             {
